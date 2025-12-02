@@ -82,6 +82,8 @@ Model default config (GPTConfig):
 - n_layer: 12
 - n_head: 12
 - n_embd: 768
+- Total params: 163,037,184
+- Trainable params: 163,037,184
 
 These values correspond to a small GPT-2 style model (roughly the GPT-2 124M configuration). You can reduce layers/heads/embedding size to fit resource constraints when experimenting locally.
 
